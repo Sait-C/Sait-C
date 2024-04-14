@@ -23,7 +23,7 @@ I was leader of robotic club of my high school. I educated and mentored students
 - 👯 I’m looking to collaborate on my Unreal Engine game project
 - 💬 Ask me about everything
 - 🎓 I'm currently studying at **Yıldız Technical University** in Istanbul.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Other facts about me: 
     - I'm playing the guitar 🎸, 
     - reading the Dragonlance 🐲, 
