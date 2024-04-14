@@ -30,7 +30,9 @@ I was leader of robotic club of my high school. I educated and mentored students
     - and a FPV racing drone pilot 🛩
 
 ### 📫 &nbsp; You can reach me on
-
 <a href="https://twitter.com/CoktasSait" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
 <a target="_blank" href="mailto:coktasmuharremsait@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a>
 <a href="https://instagram.com/_coktas_" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25 /></a> 
+
+### 🛠 &nbsp;Tech Stack
+Coming soon..
