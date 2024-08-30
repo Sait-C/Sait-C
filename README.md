@@ -18,16 +18,16 @@ I was leader of robotic club of my high school. I educated and mentored students
 
 <a href="https://app.daily.dev/coktas"><img align=right src="https://api.daily.dev/devcards/v2/MMADblMI9.png?type=default&r=4ga" width="300" alt="Muharrem Sait Çoktaş's Dev Card"/></a>
 
-- 🔭 I’m currently working on Real-Time Kinematic
+- 🔭 I’m currently working on AI
 - 🌱 I’m currently learning a lot of new things(maybe we can talk about more)
-- 👯 I’m looking to collaborate on my Unreal Engine game project
+- 👯 I’m looking to collaborate on my Unity game project
 - 💬 Ask me about everything
 - 🎓 I'm currently studying at **Yıldız Technical University** in Istanbul.
 - 😄 Pronouns: He/Him
 - ⚡ Other facts about me: 
     - I'm playing the guitar 🎸, 
-    - reading the Dragonlance 🐲, 
-    - playing some computer games such as Call of Duty 🎮
+    - reading Dragonlance 🐲, 
+    - playing awesome computer games such as Resident Evil 🎮
     - addicted to coffee ☕
     - and a FPV racing drone pilot 🛩
 
