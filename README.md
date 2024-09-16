@@ -18,7 +18,7 @@ I was leader of robotic club of my high school. I educated and mentored students
 
 <a href="https://app.daily.dev/coktas"><img align=right src="https://api.daily.dev/devcards/v2/MMADblMI9.png?type=default&r=4ga" width="300" alt="Muharrem Sait Çoktaş's Dev Card"/></a>
 
-- 🔭 I’m currently working on AI
+- 🔭 I’m currently working on AI and Web3
 - 🌱 I’m currently learning a lot of new things(maybe we can talk about more)
 - 👯 I’m looking to collaborate on my Unity game project
 - 💬 Ask me about everything
